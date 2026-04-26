@@ -17,8 +17,12 @@ Land a role at a top AI company within 2 years.
 ## Progress Log
 ### Week 1
 - [x] Created this repo
-- [ ] Completed CS50P Lecture 0
-- [ ] Solved first LeetCode problem in Python
+- [x] Completed CS50P Lecture 0
+- [x] Solved Problem Set 0 — Indoor Voice
+- [x] Solved Problem Set 0 — Playback Speed
+- [x] Solved Problem Set 0 — Making Faces
+- [x] Solved Problem Set 0 — Einstein
+- [x] Solved Problem Set 0 — Tip Calculator
 
 ## Resources I'm using
 - [CS50P](https://cs50.harvard.edu/python) — Python fundamentals
