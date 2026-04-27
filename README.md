@@ -23,6 +23,12 @@ Land a role at a top AI company within 2 years.
 - [x] Solved Problem Set 0 — Making Faces
 - [x] Solved Problem Set 0 — Einstein
 - [x] Solved Problem Set 0 — Tip Calculator
+- [x] Completed CS50P Lecture 1
+- [x] Solved Problem Set 1 — Deep Thought
+- [x] Solved Problem Set 1 — Home Federal Savings Bank
+- [x] Solved Problem Set 1 — File Extensions
+- [x] Solved Problem Set 1 — Math Interpreter
+- [x] Solved Problem Set 1 — Meal Time
 
 ## Resources I'm using
 - [CS50P](https://cs50.harvard.edu/python) — Python fundamentals
