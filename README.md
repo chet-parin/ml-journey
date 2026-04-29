@@ -36,6 +36,7 @@ Land a role at a top AI company within 2 years.
 - [x] Solved Problem Set 2 — Vanity Plates
 - [x] Solved Problem Set 2 — Nutrition Facts
 
+
 ## Resources I'm using
 - [CS50P](https://cs50.harvard.edu/python) — Python fundamentals
 - [fast.ai](https://course.fast.ai) — Practical Deep Learning
