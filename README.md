@@ -29,6 +29,12 @@ Land a role at a top AI company within 2 years.
 - [x] Solved Problem Set 1 — File Extensions
 - [x] Solved Problem Set 1 — Math Interpreter
 - [x] Solved Problem Set 1 — Meal Time
+- [x] Completed CS50P Lecture 2
+- [x] Solved Problem Set 2 — camelCase
+- [x] Solved Problem Set 2 — Coke Machine
+- [x] Solved Problem Set 2 — Just setting up my twttr
+- [x] Solved Problem Set 2 — Vanity Plates
+- [x] Solved Problem Set 2 — Nutrition Facts
 
 ## Resources I'm using
 - [CS50P](https://cs50.harvard.edu/python) — Python fundamentals
