@@ -14,6 +14,10 @@ Land a role at a top AI company within 2 years.
 | 3 | Month 13–18 | Specialization, open source, interview prep |
 | 4 | Month 19–24 | Apply & get the job |
 
+### LeetCode Progress
+- [x] #1 Two Sum
+- [x] #9 Palindrome Number
+      
 ## Progress Log
 ### Week 1
 - [x] Created this repo
